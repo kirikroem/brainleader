@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="BD5kka51KfZyv1atW4Eq">
-    <mxGraphModel dx="1235" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-7" value="TF SALES &amp;amp; Advisory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;rotation=270;" vertex="1" parent="1">
-          <mxGeometry y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="-11" y="510" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-8" value="TF Operation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;rotation=270;" vertex="1" parent="1">
           <mxGeometry y="640" width="120" height="40" as="geometry" />
@@ -78,6 +78,30 @@
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-29" value="&lt;ol&gt;&lt;li&gt;Provide guidance to customers on utilising TIF&lt;/li&gt;&lt;li&gt;Perform preliminary documents checking and Prepare Application for Trade Invoice Financing for customer to sign.&lt;/li&gt;&lt;li&gt;Deliver signed Forms to Trade Finance Ops&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=-12;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.688;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-27" target="CxEFb6XLbBm6YlCLKPa0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-32" target="CxEFb6XLbBm6YlCLKPa0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-32" value="&lt;ol&gt;&lt;li&gt;Check &amp;amp; verify Application Form with supporting documents&lt;/li&gt;&lt;li&gt;Conduct AML Screening&lt;/li&gt;&lt;li&gt;Process drawdown TIF in FC system&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=-12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-33" value="&lt;ol&gt;&lt;li&gt;Check &amp;amp; verify Application Form with supporting documents&lt;/li&gt;&lt;li&gt;Conduct AML Screening&lt;/li&gt;&lt;li&gt;Process drawdown TIF in FC system&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=-12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.688;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779.5" y="580" as="sourcePoint" />
+            <mxPoint x="779.5" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="779.5" y="601" />
+              <mxPoint x="780.5" y="601" />
+              <mxPoint x="780.5" y="600" />
+              <mxPoint x="779.5" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
