@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="BD5kka51KfZyv1atW4Eq">
-    <mxGraphModel dx="2100" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;TF SALES &amp;amp; Advisory&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="460" width="2010" height="140" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;TF SALES &amp;amp; Advisory&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="1510" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Branch Support&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="740" width="2010" height="140" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Branch Support&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="1510" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;TF Operation&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="600" width="2010" height="140" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;TF Operation&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="1510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-1" value="TRADE INVOICE FINANCING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="300" height="40" as="geometry" />
@@ -137,14 +137,14 @@
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-61" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="894" y="100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Customer&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="2020" height="120" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Customer&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="1510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BU&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="2010" height="120" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BU&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="1510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-65" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CA&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="320" width="2010" height="140" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-65" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CA&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=40;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="1510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-79" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Draw down&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-130" y="650" width="420" height="40" as="geometry" />
@@ -152,8 +152,14 @@
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-80" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Activate a New Facility&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-110" y="250" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-81" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Draw down&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="930" y="650" width="420" height="40" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-81" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Early Settlement&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="920" y="650" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-82" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Upon receiving Letter of Early Settlement from customer, deliver it to Trade Finance Operations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="480" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-83" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Verify the signature(s) and check Account Balance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Process Early Settlement in FC system&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prepare Debit Advice for Customer reference.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=-12;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="620" width="320" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
