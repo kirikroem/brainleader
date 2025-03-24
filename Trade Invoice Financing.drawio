@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="BD5kka51KfZyv1atW4Eq">
-    <mxGraphModel dx="1615" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-7" value="TF SALES &amp;amp; Advisory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;rotation=270;" vertex="1" parent="1">
-          <mxGeometry y="480" width="120" height="40" as="geometry" />
+          <mxGeometry y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-8" value="TF Operation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;rotation=270;" vertex="1" parent="1">
           <mxGeometry y="640" width="120" height="40" as="geometry" />
@@ -31,13 +31,13 @@
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-10" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-12" value="Request Trade Invoice Financing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-12" value="Request Trade Invoice Financing" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacingLeft=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="119" y="150" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-14" target="CxEFb6XLbBm6YlCLKPa0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-14" value="Conduct credit assessment for Trade Invoice Financing Facility in according with Credit&amp;nbsp;Guideline and Policy." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-14" value="Conduct credit assessment for Trade Invoice Financing Facility in according with Credit&amp;nbsp;Guideline and Policy." style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;spacingTop=0;imageWidth=24;spacingBottom=0;spacingLeft=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="119" y="220" width="281" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-15">
@@ -64,11 +64,20 @@
         <mxCell id="CxEFb6XLbBm6YlCLKPa0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.358;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-12" target="CxEFb6XLbBm6YlCLKPa0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-20" value="Reject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-20" value="Reject" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="440" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-22" value="&lt;ol&gt;&lt;li&gt;Prepare Loan documents for in according with Credit Guideline and Policy.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="334" width="281" height="80" as="geometry" />
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CxEFb6XLbBm6YlCLKPa0-22" target="CxEFb6XLbBm6YlCLKPa0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-22" value="&lt;ol&gt;&lt;li&gt;Facilitate Loan Documentation Process following Credit Guideline and Credit Policy&lt;/li&gt;&lt;li&gt;Collaborate with Loan writers &amp;amp; Lawyers to verify, validate and certify on Legal Doc.&lt;/li&gt;&lt;li&gt;Ensure the security documents are checked, verified, and securely stored at the bank.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;spacingLeft=-12;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="340" width="281" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-27" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Activate/Create a Trade Invoice Financing Facility in FC system.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-29" value="&lt;ol&gt;&lt;li&gt;Provide guidance to customers on utilising TIF&lt;/li&gt;&lt;li&gt;Perform preliminary documents checking and Prepare Application for Trade Invoice Financing for customer to sign.&lt;/li&gt;&lt;li&gt;Deliver signed Forms to Trade Finance Ops&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=10;strokeOpacity=100;imageHeight=24;imageAspect=1;spacingTop=1;spacingLeft=-12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="320" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
