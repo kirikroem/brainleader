@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CxEFb6XLbBm6YlCLKPa0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CxEFb6XLbBm6YlCLKPa0-20" edge="1">
+        <mxCell id="CxEFb6XLbBm6YlCLKPa0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CxEFb6XLbBm6YlCLKPa0-20" edge="1" target="CxEFb6XLbBm6YlCLKPa0-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="260" as="targetPoint" />
           </mxGeometry>
